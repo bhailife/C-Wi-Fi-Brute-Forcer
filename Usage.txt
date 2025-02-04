@@ -1,0 +1,7 @@
+C Wifi brute forcer
+
+1) Run it as an administrator
+2) Make sure the password.txt and Cbruteforcer.C or Cbruteforcer.exe should be in same folder
+3) Make sure you entered correct ssid (it will not check u entered the correct ssid or not)
+4) The code will be closed when he find correct password and it will connect it
+5) Follow bhailife too :)
